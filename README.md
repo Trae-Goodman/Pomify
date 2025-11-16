@@ -24,7 +24,7 @@ Installation 💻
 
 Clone the repository:
 
-git clone https://github.com/yourusername/pomify-timer.git
+git clone https://github.com/Trae-Goodman/pomify-timer.git
 
 
 Navigate to the project folder:
